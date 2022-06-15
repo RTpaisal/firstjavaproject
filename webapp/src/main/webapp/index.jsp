@@ -1,4 +1,3 @@
-<h1> This is my first devops project! 
-Regards 
+<h1> This is my fist deployment through ansible
 Ruchi Tyagi!! </h1>
 
